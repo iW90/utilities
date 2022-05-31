@@ -50,6 +50,8 @@ Diversos jogos de programação, puzzles e similares para desenvolver pensamento
 
 > [RoboMind](https://www.robomindacademy.com/robomind/home): Prática dos princípios básicos de programação, lógica e robótica.
 
+> [WarGames](https://overthewire.org/wargames/): Prática de cybersecurity.
+
 ## Jogos na Steam
 
 * [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/)
